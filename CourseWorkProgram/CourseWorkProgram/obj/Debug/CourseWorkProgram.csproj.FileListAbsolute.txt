@@ -38,3 +38,6 @@ C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkP
 C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form6.resources
 C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form7.resources
 C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form8.resources
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form10.resources
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form9.resources
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form11.resources

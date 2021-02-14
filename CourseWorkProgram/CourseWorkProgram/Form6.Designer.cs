@@ -31,6 +31,7 @@
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.повернутисяНаФормуЗіСпискомТеоріїТаЗакритиЦюToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.прикладиСуфікснихДеревToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -46,7 +47,8 @@
             // 
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.повернутисяНаФормуЗіСпискомТеоріїТаЗакритиЦюToolStripMenuItem});
+            this.повернутисяНаФормуЗіСпискомТеоріїТаЗакритиЦюToolStripMenuItem,
+            this.прикладиСуфікснихДеревToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(1018, 28);
@@ -59,6 +61,13 @@
             this.повернутисяНаФормуЗіСпискомТеоріїТаЗакритиЦюToolStripMenuItem.Size = new System.Drawing.Size(409, 24);
             this.повернутисяНаФормуЗіСпискомТеоріїТаЗакритиЦюToolStripMenuItem.Text = "Повернутися на форму зі списком теорії та закрити цю";
             this.повернутисяНаФормуЗіСпискомТеоріїТаЗакритиЦюToolStripMenuItem.Click += new System.EventHandler(this.повернутисяНаФормуЗіСпискомТеоріїТаЗакритиЦюToolStripMenuItem_Click);
+            // 
+            // прикладиСуфікснихДеревToolStripMenuItem
+            // 
+            this.прикладиСуфікснихДеревToolStripMenuItem.Name = "прикладиСуфікснихДеревToolStripMenuItem";
+            this.прикладиСуфікснихДеревToolStripMenuItem.Size = new System.Drawing.Size(212, 24);
+            this.прикладиСуфікснихДеревToolStripMenuItem.Text = " Приклади суфіксних дерев";
+            this.прикладиСуфікснихДеревToolStripMenuItem.Click += new System.EventHandler(this.прикладиСуфікснихДеревToolStripMenuItem_Click);
             // 
             // Form6
             // 
@@ -81,5 +90,6 @@
         private System.Windows.Forms.RichTextBox richTextBox1;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem повернутисяНаФормуЗіСпискомТеоріїТаЗакритиЦюToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem прикладиСуфікснихДеревToolStripMenuItem;
     }
 }

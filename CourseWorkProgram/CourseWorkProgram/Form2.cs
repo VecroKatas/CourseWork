@@ -24,18 +24,8 @@ namespace CourseWorkProgram
         Form6 f6 = new Form6();
         Form7 f7 = new Form7();
         Form8 f8 = new Form8();
-
-        private void формуЗаПобудовоюПаліндромівToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            f1.Show();
-            Hide();
-        }
-
-        private void теріюПроToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            f3.Show();
-            Hide();
-        }
+        Form9 f9 = new Form9();
+        Form10 f10 = new Form10();
 
         private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
         {
@@ -74,6 +64,16 @@ namespace CourseWorkProgram
                 else if (treeView1.SelectedNode.Tag.ToString() == "Мак-Крейг")
                 {
                     f8.Show();
+                    Hide();
+                }
+                else if (treeView1.SelectedNode.Tag.ToString() == "Титульна сторінка")
+                {
+                    f9.Show();
+                    Hide();
+                }
+                else if (treeView1.SelectedNode.Tag.ToString() == "Вступ")
+                {
+                    f10.Show();
                     Hide();
                 }
             }

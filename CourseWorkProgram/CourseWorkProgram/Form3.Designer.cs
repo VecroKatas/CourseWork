@@ -91,8 +91,8 @@
             // перейтиНаТеоріюToolStripMenuItem
             // 
             this.перейтиНаТеоріюToolStripMenuItem.Name = "перейтиНаТеоріюToolStripMenuItem";
-            this.перейтиНаТеоріюToolStripMenuItem.Size = new System.Drawing.Size(260, 24);
-            this.перейтиНаТеоріюToolStripMenuItem.Text = "Повернутися на початкову форму";
+            this.перейтиНаТеоріюToolStripMenuItem.Size = new System.Drawing.Size(309, 24);
+            this.перейтиНаТеоріюToolStripMenuItem.Text = "Повернутися на форму форму зі змістом";
             this.перейтиНаТеоріюToolStripMenuItem.Click += new System.EventHandler(this.перейтиНаТеоріюToolStripMenuItem_Click);
             // 
             // Form3

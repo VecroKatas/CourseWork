@@ -117,4 +117,15 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Міністерство освіти у науки України Департамент науки і освіти
+Дніпропетровської облдержадміністрації 
+Дніпропетровське регіональне відділення МАН України
+
+Роботу виконав учень 10-Г класу
+Катасонов Тимур Олександрович
+:Науковий керівник
+Ентін Йосиф Абрамович
+Дніпро 2020-2021</value>
+  </data>
 </root>

@@ -186,8 +186,8 @@
             // повернутисяНаПочатковуФормуToolStripMenuItem
             // 
             this.повернутисяНаПочатковуФормуToolStripMenuItem.Name = "повернутисяНаПочатковуФормуToolStripMenuItem";
-            this.повернутисяНаПочатковуФормуToolStripMenuItem.Size = new System.Drawing.Size(260, 24);
-            this.повернутисяНаПочатковуФормуToolStripMenuItem.Text = "Повернутися на початкову форму";
+            this.повернутисяНаПочатковуФормуToolStripMenuItem.Size = new System.Drawing.Size(309, 24);
+            this.повернутисяНаПочатковуФормуToolStripMenuItem.Text = "Повернутися на форму форму зі змістом";
             this.повернутисяНаПочатковуФормуToolStripMenuItem.Click += new System.EventHandler(this.повернутисяНаПочатковуФормуToolStripMenuItem_Click);
             // 
             // Form1
