@@ -1,0 +1,40 @@
+C:\Users\Vecro\Desktop\Homeworks&Others\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\bin\Debug\CourseWorkProgram.exe.config
+C:\Users\Vecro\Desktop\Homeworks&Others\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\bin\Debug\CourseWorkProgram.exe
+C:\Users\Vecro\Desktop\Homeworks&Others\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\bin\Debug\CourseWorkProgram.pdb
+C:\Users\Vecro\Desktop\Homeworks&Others\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.csprojAssemblyReference.cache
+C:\Users\Vecro\Desktop\Homeworks&Others\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form1.resources
+C:\Users\Vecro\Desktop\Homeworks&Others\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Properties.Resources.resources
+C:\Users\Vecro\Desktop\Homeworks&Others\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.csproj.GenerateResource.cache
+C:\Users\Vecro\Desktop\Homeworks&Others\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.csproj.CoreCompileInputs.cache
+C:\Users\Vecro\Desktop\Homeworks&Others\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.exe
+C:\Users\Vecro\Desktop\Homeworks&Others\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.pdb
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\bin\Debug\CourseWorkProgram.exe.config
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\bin\Debug\CourseWorkProgram.exe
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\bin\Debug\CourseWorkProgram.pdb
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.csprojAssemblyReference.cache
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form1.resources
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Properties.Resources.resources
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.csproj.GenerateResource.cache
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.csproj.CoreCompileInputs.cache
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.exe
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.pdb
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form2.resources
+D:\10-G\Katasonov\Курсовая\CourseWorkProgram\CourseWorkProgram\bin\Debug\CourseWorkProgram.exe.config
+D:\10-G\Katasonov\Курсовая\CourseWorkProgram\CourseWorkProgram\bin\Debug\CourseWorkProgram.exe
+D:\10-G\Katasonov\Курсовая\CourseWorkProgram\CourseWorkProgram\bin\Debug\CourseWorkProgram.pdb
+D:\10-G\Katasonov\Курсовая\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.csprojAssemblyReference.cache
+D:\10-G\Katasonov\Курсовая\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form1.resources
+D:\10-G\Katasonov\Курсовая\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form2.resources
+D:\10-G\Katasonov\Курсовая\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form3.resources
+D:\10-G\Katasonov\Курсовая\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form4.resources
+D:\10-G\Katasonov\Курсовая\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Properties.Resources.resources
+D:\10-G\Katasonov\Курсовая\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.csproj.GenerateResource.cache
+D:\10-G\Katasonov\Курсовая\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.csproj.CoreCompileInputs.cache
+D:\10-G\Katasonov\Курсовая\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.exe
+D:\10-G\Katasonov\Курсовая\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.pdb
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form3.resources
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form4.resources
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form5.resources
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form6.resources
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form7.resources
+C:\Users\Vecro\Desktop\Homeworks\Informatics\Programming\Course work\CourseWorkProgram\CourseWorkProgram\obj\Debug\CourseWorkProgram.Form8.resources
